@@ -40,5 +40,3 @@ Ensure you have the required dependencies installed:
 `pip install torch tokenizers matplotlib seaborn`
 
 Run the script to download the dataset, train the BPE tokenizer, initialize the model, and begin the 30-epoch training loop. Attention heatmap visualizations and sample text generations will output upon training completion.
-
-Colab Link: https://colab.research.google.com/drive/1UtK4DGeF6pklrQdhxtunxjzPj5ixiCm8?usp=sharing
